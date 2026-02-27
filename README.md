@@ -2,8 +2,6 @@
 
 A modern single-file reimplementation of [Ecco Pro](https://en.wikipedia.org/wiki/Ecco_Pro), the legendary 1990s personal information manager by Arabesque Software. Built as a single self-contained HTML file — no dependencies, no server, no install.
 
-![Ecco.modern screenshot](screenshot.png)
-
 ## What is Ecco Pro?
 
 Ecco Pro (1993–1997) was a cult-classic PIM beloved by power users for its unique combination of a freeform outliner with a typed-column database layer. Nothing quite like it has existed since. This project brings its core ideas into the browser.
@@ -124,6 +122,10 @@ Data is stored as JSON, making it easy to manipulate externally:
 ## Inspiration
 
 Ecco Pro was developed by Arabesque Software and later acquired by NetManage. It was discontinued in the late 1990s but maintained a devoted user base for decades. This project is a spiritual successor, not a clone — it reimagines the core outliner+columns concept for modern browsers.
+
+## Created with Claude
+
+This project was built entirely through conversation with [Claude](https://claude.ai) (Anthropic). The app, all features, keyboard shortcuts, undo/redo system, macro editor, and this README were designed and implemented iteratively via natural language — no manual coding required.
 
 ## License
 
