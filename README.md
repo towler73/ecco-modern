@@ -2,7 +2,7 @@
 
 A modern single-file reimplementation of [Ecco Pro](https://en.wikipedia.org/wiki/Ecco_Pro), the legendary 1990s personal information manager by Arabesque Software. Built as a single self-contained HTML file — no dependencies, no server, no install.
 
-![Ecco.modern screenshot](https://raw.githubusercontent.com/placeholder/ecco-modern/main/screenshot.png)
+![Ecco.modern screenshot](screenshot.png)
 
 ## What is Ecco Pro?
 
