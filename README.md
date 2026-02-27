@@ -2,6 +2,8 @@
 
 A modern single-file reimplementation of [Ecco Pro](https://en.wikipedia.org/wiki/Ecco_Pro), the legendary 1990s personal information manager by Arabesque Software. Built as a single self-contained HTML file — no dependencies, no server, no install.
 
+![Ecco.modern screenshot](screenshot.png)
+
 ## What is Ecco Pro?
 
 Ecco Pro (1993–1997) was a cult-classic PIM beloved by power users for its unique combination of a freeform outliner with a typed-column database layer. Nothing quite like it has existed since. This project brings its core ideas into the browser.
